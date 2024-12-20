@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pnlAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pnlAdminHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pnlHouses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pnlUserHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SoldHouses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_Accounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddBranch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddClearLot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddOccupant.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddRentalShop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_AddSoldHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_Apartments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_Branches.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_BranchesAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_ChangePassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_ClearLot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_ClearLotAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_Contractors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_DeleteBranch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_DeleteClearLot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_DeleteHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_DeleteOccupantInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_DeleteRentalShop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_DeleteSoldInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_EditBranch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_EditClearLot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_EditHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_EditOccupantInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_EditRentalShop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_EditSoldHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_HousesAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_OccupantAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_OccupantInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_OccupiedAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_OnConstruction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_Rental Shops.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_ServiceProviders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uc_SplitLevel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
