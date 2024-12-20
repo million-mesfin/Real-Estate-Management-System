@@ -16,7 +16,7 @@ The Real Estate Management System (REMS) is a comprehensive solution designed to
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/REMS.git
+    https://github.com/million-mesfin/Real-Estate-Management-System.git
     ```
 2. **Open the solution**:
    Open the `REMS.sln` file in Visual Studio.
